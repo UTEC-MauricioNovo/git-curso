@@ -7,3 +7,6 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 Pueden hacer lo que quieran...
 
 Generamos un cambio en el repositorio remoto
+
+# Otro cambio 
+Pobando la configuracion del FF
